@@ -49,3 +49,5 @@ sudo lshw -C display
 **Paso 4: Instalar el controlador Nvidia y el CUDA Toolkit**
 
 Vamos al link siguiente: [CUDA Toolkit Installer](https://developer.nvidia.com/cuda-downloads)
+
+![CUDA Toolkit Installer](/Imagenes/toolkit.png)
