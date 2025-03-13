@@ -12,9 +12,9 @@ utilizando tu GPU RTX. Estas son las bibliotecas y versiones requeridas:
 **Paso 1: Eliminar cualquier instalacion previa de Nvidia**
 
 Abrimos un terminal y ejecutamos los siguientes comandos:
-´´´
+```
 $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt-get remove --purge '^nvidia-.*'
 $ sudo apt-get autoremove
-´´
+```
