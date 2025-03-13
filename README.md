@@ -6,7 +6,7 @@ utilizando tu GPU RTX. Estas son las bibliotecas y versiones requeridas:
 
 - TensorFlow 2.12
 - cuDNN 8.9.1
-- CUDA Toolkit 11.8
+- CUDA Toolkit 12.8
 - Controlador NVIDIA(instalado junto con el toolkit)
 
 **Paso 1: Eliminar cualquier instalacion previa de Nvidia**
